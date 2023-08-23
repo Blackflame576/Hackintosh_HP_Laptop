@@ -7,3 +7,4 @@
 ### RAM: 16GB
 ### Ethernet chip:Realtek
 ## Install macOS required internet connection at Ethernet
+[DMG file with image macOS 11](https://drive.google.com/drive/folders/1sQiF99R7ThJXykMKWsptecCwiRiv0L_E?usp=sharing)
